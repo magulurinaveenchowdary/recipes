@@ -263,6 +263,11 @@
           "unit": "seconds"
         },
         {
+          "command": "PUMP_WATER",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0],
+          "unit": "ml"
+        },
+        {
           "command": "STIRRING_CLOCKWISE",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0],
           "unit": "seconds"

@@ -58,7 +58,7 @@
           "unit": "ml"
         },
         {
-          "command": "DROP_TRAY_2",
+          "command": "DROP_TRAY_1",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
           "unit": "none"
         },
@@ -78,7 +78,7 @@
           "unit": "seconds"
         },
         {
-          "command": "DROP_TRAY_1",
+          "command": "DROP_TRAY_2",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
           "unit": "none"
         },
@@ -315,7 +315,16 @@
       ],
       "trays": {
         "tray1": [
-          {
+         
+              {
+            "ingredient": "Butter",
+            "variety": "Raw",
+            "value": [0, 0, 0, 0],
+            "unit": "none"
+          }
+        ],
+        "tray2": [
+           {
             "ingredient": "Onion",
             "variety": "Raw",
             "value": [0, 0, 0, 0],
@@ -335,14 +344,6 @@
           },
           {
             "ingredient": "Thyme",
-            "variety": "Raw",
-            "value": [0, 0, 0, 0],
-            "unit": "none"
-          }
-        ],
-        "tray2": [
-          {
-            "ingredient": "Butter",
             "variety": "Raw",
             "value": [0, 0, 0, 0],
             "unit": "none"

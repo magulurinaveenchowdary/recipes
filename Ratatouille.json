@@ -1,4 +1,4 @@
-{
+ {
       "id": "695fb64715d4c5f9f5cd1c4f",
       "name": "Ratatouille",
       "category": "main_course",
@@ -10,6 +10,9 @@
       "prepTimeMin": 20,
       "servings": 1,
       "rating": 4.5,
+      "user_id": "685169c3f6190d291aa82b8d",
+      "status": "approved",
+      "image": "https://res.cloudinary.com/dxxjhrt9p/image/upload/v1767880263/Qzene/ingredients/images/guni1okeqjpu1dizalf4.webp",
       "author": {
         "name": "Qzene",
         "url": null
@@ -34,6 +37,11 @@
       ],
       "instructions": [
         {
+          "command": "STIR_DOWN",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        },
+        {
           "command": "INDUCTION_ON_SET_TEMP",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 800, 0],
           "unit": "watts"
@@ -55,8 +63,8 @@
         },
         {
           "command": "DROP_TRAY_1",
-          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "unit": "none"
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0],
+          "unit": "gm"
         },
         {
           "command": "STIRRING_CLOCKWISE",
@@ -130,8 +138,8 @@
         },
         {
           "command": "DROP_TRAY_2",
-          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "unit": "none"
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 0],
+          "unit": "gm"
         },
         {
           "command": "STIRRING_CLOCKWISE",
@@ -150,8 +158,8 @@
         },
         {
           "command": "DROP_TRAY_3",
-          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "unit": "none"
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "gm"
         },
         {
           "command": "STIRRING_CLOCKWISE",
@@ -170,8 +178,8 @@
         },
         {
           "command": "DROP_TRAY_4",
-          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "unit": "none"
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 0],
+          "unit": "gm"
         },
         {
           "command": "STIRRING_CLOCKWISE",
@@ -241,17 +249,27 @@
         {
           "command": "DROP_SPICE_1",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
-          "unit": "none"
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
         },
         {
           "command": "DROP_SPICE_3",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
-          "unit": "none"
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
         },
         {
           "command": "DROP_SPICE_2",
           "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0],
-          "unit": "none"
+          "unit": "gm"
         },
         {
           "command": "WAIT_FOR_COOKING",
@@ -330,8 +348,8 @@
         },
         {
           "command": "DROP_TRAY_5",
-          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "unit": "none"
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+          "unit": "gm"
         },
         {
           "command": "STIRRING_CLOCKWISE",
@@ -452,4 +470,4 @@
         ],
         "tray6": []
       }
-    }
+    },

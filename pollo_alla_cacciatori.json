@@ -1,0 +1,334 @@
+{
+      "id": "69ba912b1d1b3497aa2361ec",
+      "name": "pollo alla cacciatori",
+      "category": "main_course",
+      "cuisine": "Italian",
+      "origin": "Italian",
+      "isVeg": false,
+      "isPremium": false,
+      "price": 0,
+      "prepTimeMin": 30,
+      "servings": 1,
+      "rating": 4.5,
+      "user_id": "685169c3f6190d291aa82b8d",
+      "status": "approved",
+      "image": "https://res.cloudinary.com/dxxjhrt9p/image/upload/v1773834538/Qzene/ingredients/images/m6frymhogfg60kotnksd.jpg",
+      "author": {
+        "name": "Qzene",
+        "url": null
+      },
+      "source": "System",
+      "lastCooked": null,
+      "isFavorite": false,
+      "discountPercentage": null,
+      "liquids": {
+        "oil": "Olive Oil",
+        "water": "Regular Water"
+      },
+      "nutrient": {
+        "calories": 0,
+        "fat": 0,
+        "protein": 0
+      },
+      "spices": [
+        "SALT",
+        "BLACK_PEPPER_POWDER",
+        "CHILLI_FLAKES",
+        "OREGANO",
+        "CAJUN_SEASONING"
+      ],
+      "instructions": [
+        {
+          "command": "STIR_DOWN",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        },
+        {
+          "command": "INDUCTION_ON_SET_TEMP",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 800, 0],
+          "unit": "watts"
+        },
+        {
+          "command": "WAIT_FOR_COOKING",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "PUMP_OIL",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 0],
+          "unit": "ml"
+        },
+        {
+          "command": "DROP_TRAY_1",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "WAIT_FOR_COOKING",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_TRAY_2",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "WAIT_FOR_COOKING",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_TRAY_3",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "WAIT_FOR_COOKING",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_SPICE_1",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_SPICE_2",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_SPICE_3",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_SPICE_4",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_SPICE_5",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0],
+          "unit": "gm"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "DROP_TRAY_4",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        },
+        {
+          "command": "PUMP_WATER",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0],
+          "unit": "ml"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "WAIT_FOR_COOKING",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "INDUCTION_ON_SET_TEMP",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 500, 0],
+          "unit": "watts"
+        },
+        {
+          "command": "WAIT_FOR_COOKING",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_CLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 270, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "STIRRING_ANTICLOCKWISE",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 270, 0],
+          "unit": "seconds"
+        },
+        {
+          "command": "INDUCTION_OFF",
+          "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "unit": "none"
+        }
+      ],
+      "trays": {
+        "tray1": [
+          {
+            "ingredient": "Onion",
+            "variety": "Chopped",
+            "value": [0, 0, 0, 60],
+            "unit": "gm"
+          },
+          {
+            "ingredient": "Garlic",
+            "variety": "Chopped",
+            "value": [0, 0, 0, 10],
+            "unit": "gm"
+          },
+          {
+            "ingredient": "Parsley",
+            "variety": "Chopped",
+            "value": [0, 0, 0, 2],
+            "unit": "gm"
+          },
+          {
+            "ingredient": "Thyme",
+            "variety": "Chopped",
+            "value": [0, 0, 0, 2],
+            "unit": "gm"
+          },
+          {
+            "ingredient": "Pablano Chill",
+            "variety": "Chopped",
+            "value": [0, 0, 0, 3],
+            "unit": "gm"
+          }
+        ],
+        "tray2": [
+          {
+            "ingredient": "Chicken",
+            "variety": "Raw",
+            "value": [0, 0, 0, 200],
+            "unit": "gm"
+          }
+        ],
+        "tray3": [
+          {
+            "ingredient": "Celery",
+            "variety": "Raw",
+            "value": [0, 0, 0, 10],
+            "unit": "gm"
+          },
+          {
+            "ingredient": "Bell Pepper",
+            "variety": "Chopped",
+            "value": [0, 0, 0, 35],
+            "unit": "gm"
+          },
+          {
+            "ingredient": "Mushroom",
+            "variety": "Sliced",
+            "value": [0, 0, 0, 30],
+            "unit": "gm"
+          }
+        ],
+        "tray4": [
+          {
+            "ingredient": "Tomato",
+            "variety": "Crushed",
+            "value": [0, 0, 0, 100],
+            "unit": "gm"
+          }
+        ],
+        "tray5": [],
+        "tray6": []
+      }
+    },
